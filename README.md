@@ -346,19 +346,15 @@ Version 2 will include:
 
 # 📸 Screenshots
 
-> Add your workflow infographic here.
+<img width="1350" height="899" alt="image" src="https://github.com/user-attachments/assets/b60a17a7-4c55-494d-87e3-e2b7b8ee85d9" />
 
-> Add your cover image here.
-
-> Add CLI screenshots here.
+<img width="1356" height="902" alt="image" src="https://github.com/user-attachments/assets/fb2b3fb0-7d5a-43da-9633-828442cae083" />
 
 ---
 
 # 🎥 Demo
 
-YouTube:
-
-(Add your YouTube video after uploading.)
+YouTube: https://studio.youtube.com/video/UthHUXJ8JsI/edit
 
 ---
 
