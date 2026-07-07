@@ -354,7 +354,7 @@ Version 2 will include:
 
 # 🎥 Demo
 
-YouTube: https://studio.youtube.com/video/UthHUXJ8JsI/edit
+YouTube: [https://studio.youtube.com/video/UthHUXJ8JsI/edit](https://youtu.be/UthHUXJ8JsI?si=07YLo1dqo2yCYzlz)
 
 ---
 
